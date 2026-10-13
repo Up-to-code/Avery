@@ -1,3 +1,44 @@
+# Avery
+
+Technology focused on providing structure and direction for meaningful impact
+
+[Source](https://github.com/Up-to-code/Avery) · [Issues](https://github.com/Up-to-code/Avery/issues) · [Project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
+
+## Technology
+
+Next.js, React, TypeScript.
+
+## Get started
+
+```sh
+git clone https://github.com/Up-to-code/Avery.git
+cd Avery
+```
+
+Requires Node.js and pnpm.
+
+```sh
+pnpm install
+pnpm dev
+```
+
+## Available commands
+
+| Command | Purpose |
+| --- | --- |
+| `pnpm dev` | Development server |
+| `pnpm start` | Start the configured application |
+| `pnpm build` | Build the project |
+| `pnpm lint` | Check lint rules |
+
+## Project structure
+
+- [`app`](./app)
+- [`components`](./components)
+
+<details>
+<summary>Existing setup notes and credits</summary>
+
 # About Us page
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
@@ -28,3 +69,5 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+
+</details>
